@@ -8,18 +8,18 @@
 </div> -->
 <!-- <br/> -->
 
-<p>Plus 10 years of experience on software development using Javascript, Typescript, Node.js. <br/>Focusing on quality of product and keeping deadline with excellent passion as fire.
-<br/>Have worked a lot in PWA and Hybrid app development as frontend developer using:<br/>
+<p>Plus 10 years of experience on software development using Python. <br/>Focusing on quality of product and keeping deadline with excellent passion as fire.
+<br/>Have worked a lot in AI based Web and Mobile application using:<br/>
 
-- Frontend Web development : React.js, Next.js, Vue.js, Nuxt.js
-- Frontend Mobile development: React Native, Flutter
-- UI design libraries: Material-UI, Ant Design, React Bootstrap, BootstrapVue, Quasar, Vuetify
+- Python, Django, Flask
+- TensorFlow, PyTorch, OpenCV, Pandas, NumPy, Keras
+- Natural language generation, Speech recognition, Computer Vision, Machine learning, Deep learning
 
-Very good experienced Javascript, Typescript, Node.js developer.
+Very good experienced Python developer.
     
 Now focusing on blockchain platform development with AI technology.
     
-Not only good at frontend but also backend. <br/>
+Not only good at Python but also Javascript or Typescript. <br/>
 
 Prefer challenge jobs that need to learn new technology that I don't know.
     
@@ -56,9 +56,9 @@ Phone Number
 </table>
 
 #### Frontend and Backend Development
-- HTML5, CSS3, JavaScript, Typescript, Php, Node.js, Python, Dart, C++
-- React.js, Vue.js, Next.js, Nuxt.js, React Native, Flutter, Ionic
-- Codeigniter, Laravel, Express, Nest.js, Django
+- HTML5, CSS3, JavaScript, Typescript, Node.js, Python
+- React.js, Vue.js
+- Express, Nest.js, Django, Flask
 
 #### Database
 Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB
