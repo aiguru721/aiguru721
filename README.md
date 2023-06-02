@@ -17,7 +17,7 @@
 
 Very good experienced Python developer.    
 Now focusing on blockchain platform development with AI technology.    
-Not only good at Python but also Javascript or Typescript. <br/>
+Not only good at Python but also Javascript or Typescript.
 Prefer challenge jobs that need to learn new technology that I don't know.    
 Will learn new technologies quickly and take part in new challenges asap.    
 Looking forward hearing from you about new job opportunity.    
