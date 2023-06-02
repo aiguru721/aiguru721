@@ -28,30 +28,3 @@ Will learn new technologies quickly and take part in new challenges asap.
 Looking forward hearing from you about new job opportunity.
     
 Thanks for checking my profile.</p>
-
-<br>
-<table>
-<tr>
-<td>
-Gmail
-</td>
-<td>
-Skype
-</td>
-<td>
-Phone Number
-</td>
-</tr>
-<tr>
-<td>
-    lovetom.pro@gmail.com
-</td>
-<td>
-    live:.cid.6734401aa3d79e1e
-</td>
-<td>
-    +1 731 624 9819
-</td>
-</tr>
-</table>
-
