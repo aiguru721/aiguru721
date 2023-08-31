@@ -8,17 +8,15 @@
 </div> -->
 <!-- <br/> -->
 
-<p>Plus 7 years of experience on software development using Python. <br/>Focusing on quality of product and keeping deadline with excellent passion as fire.
-<br/>Have worked a lot in AI based Web and Mobile application using:<br/>
+<p>With over 7 years of experience in software development, I have honed my skills in Python and artificial intelligence. I'm deeply committed to delivering high-quality products on time and am driven by an unwavering passion.
+<br/>Throughout my career, I have extensively worked on AI-based web and mobile applications, leveraging technologies such as:<br/>
 
-- Python, Django, Flask
-- TensorFlow, PyTorch, OpenCV, Pandas, NumPy, Keras
-- Natural language generation, Speech recognition, Computer Vision, Machine learning, Deep learning
+ - Python frameworks like Django and Flask
+ - Machine learning libraries and tools including TensorFlow, PyTorch, OpenCV, Pandas, NumPy, and Keras
+ - Expertise in Natural Language Generation, Speech Recognition, Computer Vision, Machine Learning, and Deep Learning.
+ - While I possess a deep expertise in Python, I'm also proficient in JavaScript and TypeScript.
 
-Very good experienced Python developer.    
-Now focusing on blockchain platform development with AI technology.    
-Not only good at Python but also Javascript or Typescript.<br/>
-Prefer challenge jobs that need to learn new technology that I don't know.    
-Will learn new technologies quickly and take part in new challenges asap.    
-Looking forward hearing from you about new job opportunity.    
-Thanks for checking my profile.</p>
+Currently, I'm delving into the intersection of blockchain and AI technologies. I thrive on challenges and am always eager to explore unfamiliar terrains in technology. My adaptability allows me to swiftly grasp new technologies and contribute to new projects in no time.<br/>
+I am keenly interested in opportunities that push my boundaries and allow me to further hone my skills. I look forward to discussing how I can be an asset to your team.
+
+Thank you for considering my profile.</p>
