@@ -8,7 +8,7 @@
 </div> -->
 <!-- <br/> -->
 
-<p>Plus 10 years of experience on software development using Python. <br/>Focusing on quality of product and keeping deadline with excellent passion as fire.
+<p>Plus 7 years of experience on software development using Python. <br/>Focusing on quality of product and keeping deadline with excellent passion as fire.
 <br/>Have worked a lot in AI based Web and Mobile application using:<br/>
 
 - Python, Django, Flask
